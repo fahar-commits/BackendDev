@@ -1,14 +1,16 @@
 {
   "dependencies": {
+    "@inquirer/input": "^4.2.1",
+    "@inquirer/prompts": "^7.8.0",
     "fs": "^0.0.1-security",
     "inquirer": "^9.2.16",
-    "qr-image": "^3.2.0"
+    "qr-image": "^3.2.0",
+    "solid-qr": "^1.0.3"
   },
   "name": "2.4-qr-code-project",
   "version": "1.0.0",
   "type": "module",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
